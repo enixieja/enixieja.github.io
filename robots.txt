@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enixieja.github.io/Eti/sitemap_index.txt
+Sitemap: https://enixieja.github.io/yEl/sitemap_index.txt
+Sitemap: https://enixieja.github.io/yRe/sitemap_index.txt
+Sitemap: https://enixieja.github.io/ynq/sitemap_index.txt
